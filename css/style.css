@@ -1,0 +1,41 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgb(0, 247, 255);
+    text-shadow: 2px 1px 1px rgb(0, 0, 0), 0 0 1em rgb(2, 2, 2), 0 0 0.2em rgb(189, 189, 189);
+}
+
+.colorTop{
+    color: rgb(0, 60, 255);
+}
+
+div {
+    padding: 10px;
+}
+
+.textAbout{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h3{
+    margin-left: 10px;
+}
+
+ol {
+    margin: 25px;
+}
+
+li {
+    margin: 5px;
+    padding: 5px;
+}
+
+#demotext {
+    color: #FFFFFF;
+    text-shadow: 2px 2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, -2px -2px 0 #000000, 2px 0px 0 #000000, 0px 2px 0 #000000, -2px 0px 0 #000000, 0px -2px 0 #000000;
+    }
